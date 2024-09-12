@@ -1,5 +1,8 @@
 #Ignore node_modules directory
-node_modules/
+user-service-api/node_modules/
+
+#Ignore folder
+Shared_Website_Folder/
 
 #Ignore log files
 *.log
