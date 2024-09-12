@@ -1,6 +1,6 @@
 # each step creates a layer
 
-FROM node:latest
+FROM node:alpine
 WORKDIR /app
 ADD package*.json ./
 # by putting package here, we can leverage cacheing to reduce docker image build time
