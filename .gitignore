@@ -3,15 +3,3 @@ node_modules/
 
 #Ignore log files
 *.log
-
-# Ignore compiled files
-*.class
-*.o
-*.pyc
-
-# Ignore environment-specific configuration files
-.env
-
-# Ignore IDE or editor-specific files (e.g., for VSCode or JetBrains)
-.vscode/
-.idea/:
