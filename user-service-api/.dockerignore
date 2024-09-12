@@ -1,0 +1,11 @@
+# add anything that is not needed for the dockerfile to run or inside the image
+
+node_modules
+Dockerfile
+.git
+
+#if you don't want certain files
+# *.jpeg
+
+#if you don't want folders
+# folder/**
