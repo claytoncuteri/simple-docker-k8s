@@ -3,3 +3,6 @@ user-service-api/node_modules/
 
 #Ignore log files
 *.log
+
+#MacOS Files
+.DS_Store
